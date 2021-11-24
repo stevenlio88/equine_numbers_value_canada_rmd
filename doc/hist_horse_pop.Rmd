@@ -90,4 +90,4 @@ province_plot
 
 # References
 
-@R
+[@R;@tidyverse;@knitr]
